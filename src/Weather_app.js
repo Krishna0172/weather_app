@@ -81,7 +81,7 @@ const WeatherApp = () => {
     "03d": scatteredcloudsicon,
     "03n": scatteredcloudsicon,
     "04d": scatteredcloudsicon,
-    "04n": cloudicon,
+    "04n": scatteredcloudsicon,
     "09d": rainicon,
     "09n": rainicon,
     "10d": rainicon,
