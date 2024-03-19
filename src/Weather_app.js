@@ -75,11 +75,11 @@ const WeatherApp = () => {
 
   const weatherIconMap = {
     "01d": clearicon,
-    "01n": clearicon,
+    "01n": scatteredcloudsicon,
     "02d": cloudicon,
     "02n": scatteredcloudsicon,
     "03d": scatteredcloudsicon,
-    "03n": cloudicon,
+    "03n": scatteredcloudsicon,
     "04d": scatteredcloudsicon,
     "04n": cloudicon,
     "09d": rainicon,
@@ -91,7 +91,7 @@ const WeatherApp = () => {
     "13d": snowicon,
     "13n": snowicon,
     "50d": cloudicon,
-    "50n": drizzleicon
+    "50n": scatteredcloudsicon
   };
   
   
