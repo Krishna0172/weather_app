@@ -61,7 +61,7 @@ WeatherDetails.propTypes = {
 
 const WeatherApp = () => {
   const [error, setError] = useState(null);
-  const [text, setText] = useState('trichy');
+  const [text, setText] = useState('London');
   const [icon, setIcon] = useState(snowicon);
   const [temp, setTemp] = useState(0);
   const [city, setCity] = useState('');
