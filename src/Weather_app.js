@@ -12,6 +12,8 @@ import humidityicon from './assets/humidity.png';
 import './Weather_app.css';
 // cdcksdhcbhj
 // scsdf
+// ashcksdhf
+// dfcs/
 const WeatherDetails = ({ icon, temp, city, country, lat, lon, wind, humidity }) => (
   <>
     <div className='image'>
