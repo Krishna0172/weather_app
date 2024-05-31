@@ -10,7 +10,8 @@ import snowicon from './assets/snow.png';
 import scatteredcloudsicon from './assets/scattered_clouds.png';
 import humidityicon from './assets/humidity.png';
 import './Weather_app.css';
-
+// cdcksdhcbhj
+// scsdf
 const WeatherDetails = ({ icon, temp, city, country, lat, lon, wind, humidity }) => (
   <>
     <div className='image'>
